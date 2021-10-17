@@ -1,4 +1,4 @@
-# git_code-review_guide
+# git_pull-request-code-review_guide
 git code 리뷰를 진행하기 위한 가이드
 
 -  pull Request 활용하여 코드 리뷰를 하기 위한 가이드입니다. 
