@@ -11,5 +11,6 @@ git code 리뷰를 진행하기 위한 가이드
 3. 클라이언트 팀 코드리뷰 도입과 정책 https://yolocorp.quip.com/tVtfA64taBBi
 
 4. Git Flow 를 도입
-  - [내부용] https://yolocorp.quip.com/aB9rAPZksiNZ/Git-Flow-
+  - [내부용 : 프론트 팀] https://yolocorp.quip.com/aB9rAPZksiNZ/Git-Flow-
+  - [내부용 : 서버 팀] https://yolocorp.quip.com/l1gAAgNCpsP1/-Git-Flow-
   - [배민] https://techblog.woowahan.com/2553/
