@@ -2,7 +2,7 @@
 git code 리뷰를 진행하기 위한 가이드
 
 -  pull Request 활용하여 코드 리뷰를 하기 위한 가이드입니다. 
-(<T.M.I> pull Request는 GitHub에서 오픈소스에 기여하기위해 제공하는 기능입니다.)
+- (pull Request는 GitHub에서 오픈소스에 기여하기위해 제공하는 기능입니다.)
 
 1. clone 과 fork의 차이 https://devlog-wjdrbs96.tistory.com/6
 
